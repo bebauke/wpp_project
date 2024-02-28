@@ -1,0 +1,7 @@
+[poetry]
+db_url = "https://poetrydb.org"
+
+
+[artwork]
+style = "photorealistic"
+use_openai = true
