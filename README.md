@@ -1,6 +1,6 @@
 # Dokumentation des Projekts
 
-![Beispielergebniss](data\poem_2024-02-08-21-01-46.png)
+![Beispielergebniss](data/poem_2024-02-08-21-01-46.png)
 
 Dieses Projekt besteht aus mehreren Teilen:
 - der Poetry-Client Poetry-DB, der von der PoetryDB-API gedichte abruft. (poetry_client.api.PoetryDB)
